@@ -1,0 +1,17 @@
+Array
+(
+    [image] => Array
+        (
+            [name] => profile_image_1719584252206.jpg
+            [full_path] => profile_image_1719584252206.jpg
+            [type] => image/heic
+            [tmp_name] => C:\xampp\tmp\php5845.tmp
+            [error] => 0
+            [size] => 12638984
+        )
+
+)
+Array
+(
+    [email] => kemal@gmail.com
+)
